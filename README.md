@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/ayushpandey28/leetcode_practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushpandey28/leetcode_practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ayushpandey28/leetcode_practice/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -38,4 +39,9 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
