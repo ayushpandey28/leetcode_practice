@@ -12,6 +12,7 @@
 | [0136-single-number](https://github.com/ayushpandey28/leetcode_practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ayushpandey28/leetcode_practice/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/ayushpandey28/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
