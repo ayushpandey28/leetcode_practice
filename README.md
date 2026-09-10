@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/ayushpandey28/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayushpandey28/leetcode_practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/ayushpandey28/leetcode_practice/tree/master/0485-max-consecutive-ones) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushpandey28/leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
