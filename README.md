@@ -36,6 +36,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/ayushpandey28/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
 | ------- |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayushpandey28/leetcode_practice/tree/master/0046-permutations) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
