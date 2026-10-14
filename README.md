@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ayushpandey28/leetcode_practice/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0015-3sum](https://github.com/ayushpandey28/leetcode_practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
