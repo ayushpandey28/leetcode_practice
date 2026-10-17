@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ayushpandey28/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ayushpandey28/leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushpandey28/leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ayushpandey28/leetcode_practice/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushpandey28/leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -28,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/ayushpandey28/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushpandey28/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushpandey28/leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushpandey28/leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0217-contains-duplicate](https://github.com/ayushpandey28/leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushpandey28/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushpandey28/leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushpandey28/leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +66,7 @@
 | [0088-merge-sorted-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushpandey28/leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +77,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/ayushpandey28/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ayushpandey28/leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushpandey28/leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
