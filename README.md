@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/ayushpandey28/leetcode_practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushpandey28/leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ayushpandey28/leetcode_practice/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushpandey28/leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@
 | [0035-search-insert-position](https://github.com/ayushpandey28/leetcode_practice/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ayushpandey28/leetcode_practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushpandey28/leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
