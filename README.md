@@ -30,6 +30,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ayushpandey28/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushpandey28/leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushpandey28/leetcode_practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/ayushpandey28/leetcode_practice/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -142,4 +143,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayushpandey28/leetcode_practice/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [2373-largest-local-values-in-a-matrix](https://github.com/ayushpandey28/leetcode_practice/tree/master/2373-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
