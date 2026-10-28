@@ -54,6 +54,7 @@
 | [0242-valid-anagram](https://github.com/ayushpandey28/leetcode_practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/0796-rotate-string) |
+| [1903-largest-odd-number-in-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/ayushpandey28/leetcode_practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ayushpandey28/leetcode_practice/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushpandey28/leetcode_practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/ayushpandey28/leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
